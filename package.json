@@ -1,0 +1,22 @@
+{
+  "name": "youtube-video-creator",
+  "version": "1.0.0",
+  "description": "Helper to make youtube video",
+  "main": "js/index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss build styles.css -o output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developernik18/youtube-video-creator.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developernik18/youtube-video-creator/issues"
+  },
+  "homepage": "https://github.com/developernik18/youtube-video-creator#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
